@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "url": ""
   },
-  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年5月20日\n国内使用建议开启加速器再打开本应用",
+  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年5月30日\n国内使用建议开启加速器再打开本应用",
   "data" : [
     {
       "name" : "安卓远程刷机\n闲鱼用户collterpy\n关注我主页看帖",
@@ -34,8 +34,16 @@
       "url" : "https://github.com/chiteroman/PlayIntegrityFix/releases/download/v19.1/PlayIntegrityFix_v19.1.zip"
     },
     {
-      "name" : "PlayIntegrityFix\nv19.1\nGo登录修复加强\nMagisk模组",
+      "name" : "PlayIntegrityFix\nv19.1\nGo登录修复加强版1\nMagisk模组",
       "url" : "https://storage.pokemod.dev/Play_Integrity_Fix_v3_1_4_Pokemod-MxHJ8dWpn60s.zip"
+    },
+    {
+      "name" : "TrickyStore\nv1.2.1\n安卓10以上Go登录修复2\nMagisk模组\n配合TrickyAddon",
+      "url" : "https://github.com/5ec1cff/TrickyStore/releases/download/1.2.1/Tricky-Store-v1.2.1-158-51390a7-release.zip"
+    },
+    {
+      "name" : "TrickyAddon\nv3.9\nGo登录修复2\nMagisk模组\n配合TrickyStore更换密钥",
+      "url" : "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/download/v3.9/TrickyAddonModule-v3.9.zip"
     },
     {
       "name" : "Aerilate英文原版\nv0.2.1",
