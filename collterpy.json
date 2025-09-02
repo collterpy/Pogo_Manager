@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "url": ""
   },
-  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年8月23日\n国内使用建议开启加速器再打开本应用",
+  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年9月2日\n国内使用建议开启加速器再打开本应用",
   "data" : [
     {
       "name" : "安卓远程刷机\n闲鱼用户collterpy\n关注我主页看帖",
@@ -18,7 +18,7 @@
       "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
     },
     {
-      "name" : "宝可梦三星版\n安卓13以上不可用\nAPMIRROR下载\nv8a-64位\n选版本，点红色下载按钮",
+      "name" : "宝可梦三星商店版\nAPMIRROR下载\nv8a-64位\n选版本，点红色下载按钮",
       "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go-samsung-galaxy-apps-version/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
     },
     {
@@ -30,36 +30,8 @@
       "url" : "https://apkcombo.com/zh/pokemon-go/com.nianticlabs.pokemongo/download/apk"
     },
     {
-      "name" : "PlayIntegrityFix\nv19.1\n预装原版\nMagisk模组",
-      "url" : "https://github.com/chiteroman/PlayIntegrityFix/releases/download/v19.1/PlayIntegrityFix_v19.1.zip"
-    },
-    {
-      "name" : "PlayIntegrityFork\nv14\nGo登录修复2\nMagisk模组",
-      "url" : "https://github.com/osm0sis/PlayIntegrityFork/releases/download/v14/PlayIntegrityFork-v14.zip"
-    },
-    {
-      "name" : "PlayIntegrityFix\nv19.1\n部分安卓15用\nGo登录修复1\nMagisk模组",
-      "url" : "https://storage.pokemod.dev/Play_Integrity_Fix_v3_1_4_Pokemod-MxHJ8dWpn60s.zip"
-    },
-    {
-      "name" : "TrickyStore\nv1.3.0\n配合TrickyAddon\n安卓10以上Go登录修复2\nMagisk模组",
-      "url" : "https://github.com/5ec1cff/TrickyStore/releases/download/1.3.0/Tricky-Store-v1.3.0-180-8acfa57-release.zip"
-    },
-    {
-      "name" : "TrickyAddon\nv4.1\n配合TrickyStore更换密钥\nGo登录修复2\nMagisk模组",
-      "url" : "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/download/v4.1/TrickyAddonModule-v4.1.zip"
-    },
-    {
       "name" : "新暴力功PolygonX\n0.9.0\n英文原版需会员\n使用少已停更汉化",
       "url" : "https://polygonx.dl.assets.evermorelabs.io/apk/com.evermorelabs.polygonx-0.9.0.apk"
-    },
-    {
-      "name" : "Aerilate英文原版\nv0.2.4",
-      "url" : "https://dl.aerilate.evermorelabs.io/apk/com.evermorelabs.aerilate-0.2.4.apk"
-    },
-    {
-      "name" : "Aerilate中文版\nv0.2.4\n小米双开中文版",
-      "url" : "https://share.feijipan.com/s/dpDVvLYh?code=0707"
     },
     {
       "name" : "PokeList英文原版\n传送点百闪",
@@ -198,12 +170,16 @@
       "url" : "https://play.google.com/store/apps/details?id=com.evermorelabs.flymego"
     },
     {
-      "name" : "Google服务\n下载更新",
+      "name" : "Google服务\n谷歌商店更新",
       "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms"
     },
     {
       "name" : "Discord组织\n谷歌商店下载",
       "url" : "https://play.google.com/store/apps/details?id=com.discord"
+    },
+    {
+      "name" : "Blocker拦截广告\n去除三星版go弹窗",
+      "url" : "https://github.com/lihenggui/blocker/releases/download/v2.0.4839/Blocker-2.0.4839-market-release.apk"
     },
     {
       "name" : "WebView下载更新",
@@ -218,7 +194,7 @@
       "url" : "https://github.com/collterpy/Device-Features-Enabler-Magisk-Module/releases/download/untagged-683e3cedff8b00a44448/DeviceFeaturesEnabler-MagiskModule-20240824012430.zip"
     },
     {
-      "name" : "HideMockLocation\nv2.1.4\n可修复三星手机定位问题",
+      "name" : "HideMockLocation\nv2.1.4\n修复三星手机定位问题",
       "url" : "https://share.feijipan.com/s/1Q0AZL7K"
     },
     {
@@ -230,12 +206,24 @@
       "url" : "http://yeeee.ddns.net"
     },
     {
-      "name" : "Discord邀请链接\nPokemod",
-      "url" : "https://discord.gg/vA2pvNZKSn"
+      "name" : "PlayIntegrityFix\nv4.3\nMagisk模组",
+      "url" : "https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.3-inject-s/PlayIntegrityFix_v4.3-inject-s.zip"
     },
     {
-      "name" : "Discord邀请链接\nAerilate\n有中文",
-      "url" : "https://discord.gg/KnVYh9tj53"
+      "name" : "PlayIntegrityFork\nv14\nGo登录修复2\nMagisk模组",
+      "url" : "https://github.com/osm0sis/PlayIntegrityFork/releases/download/v14/PlayIntegrityFork-v14.zip"
+    },
+    {
+      "name" : "TrickyStore\nv1.3.0\n配合TrickyAddon\nMagisk模组",
+      "url" : "https://github.com/5ec1cff/TrickyStore/releases/download/1.3.0/Tricky-Store-v1.3.0-180-8acfa57-release.zip"
+    },
+    {
+      "name" : "TrickyAddon\nv4.1\n配合TrickyStore更换密钥\nGo登录修复2\nMagisk模组",
+      "url" : "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/download/v4.1/TrickyAddonModule-v4.1.zip"
+    },
+    {
+      "name" : "Discord邀请链接\nPokemod",
+      "url" : "https://discord.gg/vA2pvNZKSn"
     },
     {
       "name" : "Discord邀请链接\nPGtools\n有中文",
