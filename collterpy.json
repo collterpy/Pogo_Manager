@@ -34,16 +34,20 @@
       "url" : "https://polygonx.dl.assets.evermorelabs.io/apk/com.evermorelabs.polygonx-0.9.0.apk"
     },
     {
-      "name" : "PokeList英文原版\n传送点百闪",
-      "url" : "https://moonani.com/PokeList/PokeList.apk"
-    },
-    {
       "name" : "PokeList中文版\n传送点百闪\nv1.3.17",
       "url" : "https://share.feijipan.com/s/dpDVvLYh?code=0707"
     },
     {
+      "name" : "PokeList英文原版\n传送点百闪",
+      "url" : "https://moonani.com/PokeList/PokeList.apk"
+    },
+    {
       "name" : "PokeList\n官网数据库",
       "url" : "https://moonani.com/PokeList"
+    },
+    {
+      "name" : "Pokemod官网\n可查看功能介绍\n安装包英文原版\n会员7欧元/月",
+      "url" : "https://pokemod.dev/zh/"
     },
     {
       "name" : "PGTOOLS官网\n安装选BETA测试版\n可查看功能介绍",
@@ -56,10 +60,6 @@
     {
       "name" : "Data Hub数据库\n打火箭队团战\nv2.1.9中文版",
       "url" : "https://share.feijipan.com/s/dpDVvLYh?code=0707"
-    },
-    {
-      "name" : "Pokemod官网\n可查看功能介绍\n安装包英文原版\n会员7欧元/月",
-      "url" : "https://pokemod.dev/zh/"
     },
     {
       "name" : "Shungo官网\n打火箭队团战",
@@ -158,7 +158,7 @@
       "url" : "https://play.google.com/store/apps/details?id=com.pushbullet.android&referrer=utm_source%3Dpushbullet.com"
     },
     {
-      "name" : "MT管理器\n官网下载",
+      "name" : "MT管理器\n官网下载\n可安装谷歌版go",
       "url" : "https://mt2.cn"
     },
     {
@@ -202,7 +202,7 @@
       "url" : "https://github.com/collterpy/Pogo_Manager/blob/main/lsp%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%EF%BC%88lspoesd%E5%8F%AF%E5%8B%BE%E9%80%89discord%E4%B8%8Epokemod)-1.4.12.apk"
     },
     {
-      "name" : "直线距离计算机",
+      "name" : "直线距离计算机\n计算坐标冷却时间",
       "url" : "http://yeeee.ddns.net"
     },
     {
