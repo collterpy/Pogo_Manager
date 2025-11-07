@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "url": ""
   },
-  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年10月26日\n国内使用建议开启加速器再打开本应用\nAerilate已停用失效",
+  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年11月7日\n国内使用建议开启加速器再打开本应用\nAerilate已停用失效",
   "data" : [
     {
       "name" : "安卓远程刷机\n闲鱼用户collterpy\n关注我主页看帖",
@@ -30,8 +30,8 @@
       "url" : "https://apkcombo.com/zh/pokemon-go/com.nianticlabs.pokemongo/download/apk"
     },
     {
-      "name" : "新暴力功PolygonX\n0.13.2\n英文原版需会员\n使用少已停更汉化",
-      "url" : "https://polygonx.dl.assets.evermorelabs.io/apk/com.evermorelabs.polygonx-0.13.2.apk"
+      "name" : "新暴力功PolygonX\n0.14.2\n英文原版需会员\n使用少已停更汉化",
+      "url" : "https://polygonx.dl.assets.evermorelabs.io/apk/com.evermorelabs.polygonx-0.14.2.apk"
     },
     {
       "name" : "PokeList中文版\n传送点百闪\nv1.3.17",
@@ -202,20 +202,20 @@
       "url" : "http://yeeee.ddns.net"
     },
     {
-      "name" : "PlayIntegrityFix\nv4.3\nMagisk模组",
-      "url" : "https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.3-inject-s/PlayIntegrityFix_v4.3-inject-s.zip"
+      "name" : "PlayIntegrityFix\nv4.4\nMagisk模组",
+      "url" : "https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.4-inject-s/PlayIntegrityFix_v4.4-inject-s.zip"
     },
     {
       "name" : "PlayIntegrityFork\nv14\nGo登录修复2\nMagisk模组",
       "url" : "https://github.com/osm0sis/PlayIntegrityFork/releases/download/v14/PlayIntegrityFork-v14.zip"
     },
     {
-      "name" : "TrickyStore\nv1.3.0\n配合TrickyAddon\nMagisk模组",
-      "url" : "https://github.com/5ec1cff/TrickyStore/releases/download/1.3.0/Tricky-Store-v1.3.0-180-8acfa57-release.zip"
+      "name" : "TrickyStore\nv1.4.1\n配合TrickyAddon\nMagisk模组",
+      "url" : "https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip"
     },
     {
-      "name" : "TrickyAddon\nv4.1\n配合TrickyStore更换密钥\nGo登录修复2\nMagisk模组",
-      "url" : "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/download/v4.1/TrickyAddonModule-v4.1.zip"
+      "name" : "TrickyAddon\nv4.3\n配合TrickyStore更换密钥\nGo登录修复2\nMagisk模组",
+      "url" : "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/download/v4.3/TrickyAddonModule-v4.3.zip"
     },
     {
       "name" : "Discord邀请链接\nPokemod",
