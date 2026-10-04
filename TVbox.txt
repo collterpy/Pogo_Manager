@@ -63,7 +63,7 @@
         }, 
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-            "name": "✅寳盒"
+            "name": "✅宝盒"
         }, 	
         {
             "url": "https://盒子迷.top/禁止贩卖",
@@ -132,10 +132,6 @@
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
             "name": "✅心魔"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-            "name": "✅宝盒"
         },
         {
             "url": "https://ztha.top/TVBox/thdjk.json",
