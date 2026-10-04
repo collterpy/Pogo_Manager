@@ -18,6 +18,10 @@
             "name": "🚀王小二4"
         },
         {
+            "url": "https://d.kstore.dev/download/9280/wex.json",
+            "name": "🚀王小二5"
+        },
+        {
             "url": "https://tv.菜妮丝.top",
             "name": "✅小盒子"
         },       
@@ -47,7 +51,7 @@
         },
         {
             "url": "http://肥猫.net/tv",
-            "name": "✅肥猫"
+            "name": "❌肥猫"
         }, 
         {
             "url": "http://我不是.摸鱼儿.top",
