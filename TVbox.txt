@@ -129,6 +129,30 @@
             "url": "https://cnb.cool/fish2035/pg/-/git/raw/main/jsm.json",
             "name": "✅PG接口"
         },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+            "name": "✅心魔"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+            "name": "✅宝盒"
+        },
+        {
+            "url": "https://ztha.top/TVBox/thdjk.json",
+            "name": "✅挺好"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "✅CandyMu"
+        },
+        {
+            "url": "https://qu.ax/uanw.json/",
+            "name": "✅蜂蜜"
+        },
+        {
+            "url": "http://tjf1100.serv00.net/",
+            "name": "✅传说"
+        },
 //      {
 //          "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
 //          "name": "❌测试"
