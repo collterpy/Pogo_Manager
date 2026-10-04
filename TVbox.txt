@@ -60,6 +60,6 @@
         {  
             "url": "http://tv.laohu.cool/tvbox.json",
             "name": "❌老虎"
-        }  
+        }
     ]
 }
