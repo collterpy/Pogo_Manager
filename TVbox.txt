@@ -86,8 +86,16 @@
             "name": "❌老刘备"
         }, 	
         {  
-            "url": "http://tv.laohu.cool/tvbox.json",
-            "name": "❌老虎"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+            "name": "❌分享者"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "❌高天流云"
+        }, 	
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "❌香雅晴"
         }
     ]
 }
