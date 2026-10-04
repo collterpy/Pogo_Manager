@@ -2,48 +2,16 @@
 {
     "urls": [
         {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀王二小"
+        },
+        {
             "url": "https://tv.菜妮丝.top",
             "name": "✅小盒子"
         },       
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "❌饭太硬"
-        },  
-        {
-            "url": "http://肥猫.com",
-            "name": "❌肥猫"
-        },  
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-            "name": "✅寳盒"
-        }, 	
-        {
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🚀王二小"
-        },
-        {
-            "url": "https://盒子迷.top/禁止贩卖",
-            "name": "✅盒子迷"
-        }, 	
-        {
-            "url": "https://tv.菜妮丝.top",
-            "name": "✅菜妮丝线路"
-        },  
-        {
-            "url":"http://cdn.qiaoji8.com/tvbox.json",
-            "name": "❌巧技"
-        }, 	
-        {
-            "url": "https://欧歌.v.nxog.top/m/",
-            "name": "讴歌"
-        }, 	
-        {
-            "url": "https://5043.kstore.space/tvbox/og.json",
-            "name": "测试2"
-        }, 	
-        {  
-            "url": "http://tv.laohu.cool/tvbox.json",
-            "name": "老虎"
         },  
         {
             "url": "http://www.饭太硬.net/tv",
@@ -60,6 +28,38 @@
         {
             "url": "http://fty.888484.xyz/tv",
             "name": "✅饭太硬5"
-        } 	
+        }, 	
+        {
+            "url": "http://肥猫.com",
+            "name": "❌肥猫"
+        },  
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+            "name": "✅寳盒"
+        }, 	
+        {
+            "url": "https://盒子迷.top/禁止贩卖",
+            "name": "✅盒子迷"
+        }, 	
+        {
+            "url": "https://tv.菜妮丝.top",
+            "name": "✅菜妮丝线路"
+        },  
+        {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "❌巧技"
+        }, 	
+        {
+            "url": "https://欧歌.v.nxog.top/m/",
+            "name": "❌讴歌"
+        }, 	
+        {
+            "url": "https://5043.kstore.space/tvbox/og.json",
+            "name": "❌测试2"
+        }, 	
+        {  
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "❌老虎"
+        }  
     ]
 }
