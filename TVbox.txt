@@ -2,12 +2,16 @@
 {
     "urls": [
         {
+            "url": "http://116.196.116.76/stv",
+            "name": "🚀星河"
+        },
+        {
             "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🚀王二小"
+            "name": "✅王二小"
         },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀王小二2"
+            "name": "✅王小二2"
         },
         {
             "url": "https://9280.kstore.vip/newwex.json",
