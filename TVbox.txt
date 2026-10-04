@@ -24,7 +24,11 @@
         {
             "url": "https://tv.菜妮丝.top",
             "name": "✅小盒子"
-        },       
+        },
+        {
+            "url": "https://www.iyouhun.com/tv/dongli",
+            "name": "🚀东篱"
+        },
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "❌饭太硬"
