@@ -48,7 +48,15 @@
         {
             "url": "http://肥猫.net/",
             "name": "❌肥猫"
-        },  
+        }, 
+        {
+            "url": "http://hello.肥猫.net",
+            "name": "❌肥猫"
+        }, 
+        {
+            "url": "http://肥猫.net/tv",
+            "name": "❌肥猫"
+        }, 
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
             "name": "✅寳盒"
