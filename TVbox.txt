@@ -11,7 +11,7 @@
         },
         {
             "url": "http://我不是.摸鱼儿.top",
-            "name": 🚀摸鱼儿"
+            "name": 🚀摸鱼儿
         }, 
         {
             "url": "https://jijietvbox.lol/jieluntan-aowu.json",
