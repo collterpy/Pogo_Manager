@@ -124,34 +124,6 @@
         {
             "name": "😹玄珠",
             "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
-        },
-        {
-            "name": "😹吾爱",
-            "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
-        },
-        {
-            "name": "😹动漫城",
-            "url": "https://www.yingm.cc/dm/dm.json"
-        },
-        {
-            "name": "🚀喵影视",
-            "url": "http://meowtv.cn/tv"
-        },
-        {
-            "name": "🚀小马",
-            "url": "https://szyyds.cn/tv/x.json"
-        },
-        {
-            "name": "🦉飘零",
-            "url": "https://100km.top/0"
-        },
-        {
-            "name": "🐹dxawi",
-            "url": "https://dxawi.github.io/0/0.json"
-        },
-        {
-            "name": "🍯HG",
-            "url": "https://api.hgyx.vip/hgyx.json"
         }
 //      {
 //          "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
