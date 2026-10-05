@@ -70,10 +70,6 @@
             "name": "✅菜妮丝线路"
         },  
         {
-            "url": "https://tv.菜妮丝.top",
-            "name": "✅小盒子"
-        },
-        {
             "url": "https://www.iyouhun.com/tv/dongli",
             "name": "✅东篱"
         },
