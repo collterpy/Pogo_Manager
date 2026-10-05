@@ -102,10 +102,6 @@
             "name": "✅潇洒"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "✅潇洒2"
-        },
-        {
             "url": "https://jijietvbox.lol/jieluntan-xiaoma.json",
             "name": "✅小马"
         },
