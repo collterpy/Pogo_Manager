@@ -62,10 +62,6 @@
             "name": "❌肥猫"
         }, 
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-            "name": "✅宝盒"
-        }, 	
-        {
             "url": "https://盒子迷.top/禁止贩卖",
             "name": "✅盒子迷"
         }, 	
@@ -129,6 +125,10 @@
             "name": "✅L佬线路",
             "url": "https://android.lushunming.qzz.io/json/index.json"
         },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+            "name": "宝盒"
+        }, 	
         {
             "name": "✅苹果 CMS 资源站",
             "url": "https://pastebin.com/raw/gtbKvnE1"
