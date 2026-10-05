@@ -102,12 +102,8 @@
             "name": "✅潇洒"
         },
         {
-            "url": "https://9877.kstore.space/ONE/one.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "✅潇洒2"
-        },
-        {
-            "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
-            "name": "✅潇洒3"
         },
         {
             "url": "https://jijietvbox.lol/jieluntan-xiaoma.json",
