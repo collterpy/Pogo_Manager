@@ -18,16 +18,16 @@
             "name": "🚀嗷呜备用"
         },
         {
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "❌王二小"
-        },
-        {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "❌王小二2"
-        },
-        {
             "url": "https://9280.kstore.vip/newwex.json",
-            "name": "🚀王小二3"
+            "name": "🚀王二小（新）"
+        },
+        {
+            "url": "http://tv.999888987.xyz",
+            "name": "✅王小二2"
+        },
+        {
+            "url": "http://tv.999888123.xyz",
+            "name": "✅王小二3"
         },
         {
             "url": "https://9280.kstore.space/wex.json",
@@ -36,6 +36,14 @@
         {
             "url": "https://d.kstore.dev/download/9280/wex.json",
             "name": "🚀王小二5"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "❌王二小6"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "❌王小二7"
         },
         {
             "url": "http://www.饭太硬.net/tv",
