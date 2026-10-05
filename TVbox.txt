@@ -142,12 +142,12 @@
             "url": "https://pastebin.com/raw/gtbKvnE1"
         },
         {
-            "url": "https://jijietvbox.lol/jieluntan-n2.json",
-            "name": "✅牛儿"
-        },
-        {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json",
             "name": "✅小伟"
+        },
+        {
+            "url": "https://jijietvbox.lol/jieluntan-n2.json",
+            "name": "✅牛儿"
         },
         {
             "url": "https://jijietvbox.lol/jieluntan-ner.json",
