@@ -54,11 +54,11 @@
             "name": "🚀饭太硬4"
         }, 
         {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "❌饭太硬5"
+            "url": "http://www.饭太硬.cc/tv",
+            "name": "🚀饭太硬5"
         },  
         {
-            "url": "http://肥猫.net/tv",
+            "url": "http://肥猫.net/",
             "name": "❌肥猫"
         }, 
         {
