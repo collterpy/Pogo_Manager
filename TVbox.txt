@@ -67,7 +67,7 @@
         }, 	
         {
             "url": "https://tv.菜妮丝.top",
-            "name": "✅菜妮丝线路"
+            "name": "✅菜妮丝"
         },  
         {
             "url": "https://www.iyouhun.com/tv/dongli",
