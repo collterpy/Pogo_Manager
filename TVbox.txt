@@ -121,10 +121,6 @@
             "url": "https://ztha.top/TVBox/thdjk.json",
             "name": "✅挺好"
         },
-        {
-            "name": "😹玄珠",
-            "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
-        }
 //      {
 //          "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
 //          "name": "❌测试"
