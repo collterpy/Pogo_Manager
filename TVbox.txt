@@ -152,7 +152,8 @@
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "✅南风"
-        },        {
+        },        
+        {
             "url": "https://zhangqun1818.serv00.net/zq/api.json",
             "name": "✅老张"
         },
@@ -165,10 +166,6 @@
             "name": "✅星微Vip"
         },
         {
-            "url": "https://api.hgyx.vip/hgyx.json",
-            "name": "✅嗨哥魔改"
-        },
-        {
             "url": "https://0.wudaozhe.net/5/x4.json",
             "name": "✅X4菠菜园"
         },
@@ -179,10 +176,6 @@
         {
             "url": "https://www.cttv.vip/ys/json/ctys.json",
             "name": "✅刺桐"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-            "name": "✅宝盒2线"
         },
         {
             "url": "https://jijietvbox.lol/jieluntan-n2.json",
