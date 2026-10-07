@@ -146,6 +146,45 @@
             "name": "✅小伟"
         },
         {
+            "url": "http://150.158.52.248/tgyg/bbm.json",
+            "name": "✅幸福年年"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "✅南风"
+        },        {
+            "url": "https://zhangqun1818.serv00.net/zq/api.json",
+            "name": "✅老张"
+        },
+        {
+            "url": "http://xhztv.top/xhz",
+            "name": "✅聚玩"
+        },
+        {
+            "url": "https://7337.kstore.vip/xw/测试勿传",
+            "name": "✅星微Vip"
+        },
+        {
+            "url": "https://api.hgyx.vip/hgyx.json",
+            "name": "✅嗨哥魔改"
+        },
+        {
+            "url": "https://0.wudaozhe.net/5/x4.json",
+            "name": "✅X4菠菜园"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "✅健康家用"
+        },
+        {
+            "url": "https://www.cttv.vip/ys/json/ctys.json",
+            "name": "✅刺桐"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+            "name": "✅宝盒2线"
+        },
+        {
             "url": "https://jijietvbox.lol/jieluntan-n2.json",
             "name": "✅牛儿"
         },
