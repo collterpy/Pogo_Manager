@@ -43,11 +43,11 @@
         },
         {
             "url": "http://tvbox.王二小放牛娃.top",
-            "name": "❌王二小6"
+            "name": "🚀王二小6"
         },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "❌王小二7"
+            "name": "🚀王小二7"
         },
         {
             "url": "http://www.饭太硬.net/tv",
