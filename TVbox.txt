@@ -122,10 +122,6 @@
             "name": "✅挺好"
         },
         {
-            "name": "✅南风接口",
-            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-        },
-        {
             "name": "✅小盒子 4K",
             "url": "http://xhztv.top/4k.json"
         },
