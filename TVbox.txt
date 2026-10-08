@@ -2,14 +2,6 @@
 {
     "urls": [
         {
-            "url": "http://116.196.116.76/stv",
-            "name": "🚀星河"
-        },
-        {
-            "url": "http://116.196.116.76/tv",
-            "name": "🚀星河4k网盘前置"
-        },
-        {
             "url": "http://我不是.摸鱼儿.top",
             "name": 🚀摸鱼儿
         }, 
@@ -17,6 +9,14 @@
             "url": "http://我不是.摸鱼儿.cc",
             "name": 🚀摸鱼儿2
         }, 
+        {
+            "url": "http://116.196.116.76/stv",
+            "name": "🚀星河"
+        },
+        {
+            "url": "http://116.196.116.76/tv",
+            "name": "🚀星河4k网盘前置"
+        },
         {
             "url": "https://jijietvbox.lol/jieluntan-aowu.json",
             "name": "🚀嗷呜备用"
